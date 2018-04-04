@@ -1,1 +1,3 @@
-You can use this script to use newest NDK for building your project on Travis
+# Travis NDK Setup
+
+Add this script to your `.travis.yml` file to use latest stable NDK to build your project on Linux Travis Machine.
